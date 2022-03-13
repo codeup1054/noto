@@ -473,20 +473,15 @@ foreach (glob("up/gal/g*.jpg") as $file) {
                         height:  90px !important;
                         "  href=".desktop2" slide>
                     <a href="#container"><img src = "images_desktop/noto_logo_black_254x170.jpg"
-                                              style="margin:-10px 0px 0px -25px; box-shadow: 1px 2px 3px #888;"/></a>
+                                              style="margin:-10px 0px 0px -15px; box-shadow: 1px 2px 3px #888;"/></a>
                 </div>
 
-                <div  style='
-                        position: absolute;
-                        right:0%;
-                        width:300px;
-                        margin:30px 0px;
-                        '>
-                    <div id="header-menu-tel-home" class="tel" slide>
+                <div  id="header-contacts">
+                    <div id="header-menu1" class="tel-home" slide>
                         <a href="tel:(+34) 952-814-529" >(+34) 952-814-529</a>
                     </div>
 
-                    <div id="header-menu-tel-scooter" class="tel">
+                    <div id="header-menu" class="tel-scooter">
                         <a href="tel:(+34) 693-007-586" >(+34) 693-007-586</a>
                     </div>
                 </div>
@@ -503,12 +498,12 @@ foreach (glob("up/gal/g*.jpg") as $file) {
                             <es_ES>reservar mesa</es_ES>
                         </a>
                     </div>
-                </div>|
+                </div>
 
             </div>
-            <div id="header-menu" class='row'>
-                <div class='col-md-1'></div>
-                <div class='col-md-4'>
+            <div>
+            <div id="header-menu" class='row item' style="width: 1300px; padding-left:50px; margin:0 auto;">
+                <div class='col-md-5'>
                     <ul><li><a class="" href="#menu_section_nav" slide> <ru_RU>Меню</ru_RU>
                                 <en_GB>Menu</en_GB>
                                 <es_ES>Menú</es_ES></a></li>
@@ -524,7 +519,7 @@ foreach (glob("up/gal/g*.jpg") as $file) {
                 <div class='col-md-2'></div>
                 <div class='col-md-5'>
                     <ul>
-                        <li><a class="" href="#header-contacts" slide>
+                        <li><a class="" href="#header-right" slide>
                                 <ru_RU>Контакты</ru_RU>
                                 <en_GB>Contact us</en_GB>
                                 <es_ES>Contacto</es_ES>
@@ -547,6 +542,7 @@ foreach (glob("up/gal/g*.jpg") as $file) {
                         -->
                     </ul>
                 </div>
+            </div>
             </div>
 
 
