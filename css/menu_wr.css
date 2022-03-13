@@ -1,0 +1,184 @@
+
+/*   Описание меню*/
+
+
+/* 2016.02.02 ------------------  ------------------------  */
+
+/*.menu_tab td {border:1px solid red; vertical-align:top;}
+.menu_tab div{font-family:p22underground-demi;} 
+*/
+
+#menu-head {margin:30px 0px 20px 0px; font-size:32px;}
+#dish_panel {width:102%; border:0px solid green;}
+
+#menu_section_nav {
+            position:relative; 
+            top:0px; 
+            width1:100%; 
+            display:flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            justify-content: center;
+            left:0px;
+            border:0px solid orange;
+            z-index1:20;
+            padding: 5px 20px 20px 20px;
+            opacity:1;
+            background-color:white;
+            box-shadow1: 0px 5px 5px rgba(0,0,0,0.5); /* Параметры тени */
+            }
+/*
+div.menu_section_button 
+            {
+            min-width:150px; 
+            height:60px;
+            font-size:19px;
+            border:0px solid #fafafa; 
+            font-family:p22underground-heavy;
+            text-align:center;
+            vertical-align:middle;
+            padding:20px 10px 0px 10px;
+            margin:10px 10px;
+            color:white;
+            border-radius: 5px;
+            background-color:gray;
+            cursor:pointer;
+            box-shadow: 3px 3px 10px rgba(0,0,0,0.1); 
+            }
+
+.menu_section_button:hover
+            {
+               box-shadow: 3px 3px 10px rgba(0,0,0,0.5); 
+               border: 0px solid black; 
+            } 
+
+.menu_section_button.selected
+            {
+               box-shadow: 3px 3px 10px rgba(0,0,0,0.5); 
+               background-color:#322;
+               border: 0px solid black; 
+            } 
+
+*/
+
+div.menu_section_button 
+            {
+            min-width:150px; 
+            height:60px !important;
+            font-size:19px;
+            border:3px solid #000; 
+            font-family:p22underground-heavy;
+            text-align:center;
+            vertical-align:middle;
+            padding:20px 10px 0px 10px;
+            margin:10px 10px;
+            color:black;
+            border-radius: 2px;
+            cursor:pointer;
+            box-shadow: 3px 3px 10px rgba(0,0,0,0.1); /* Параметры тени */
+            }
+
+.menu_section_button:hover
+            {
+               box-shadow: 3px 3px 10px rgba(0,0,0,0.5); /* Параметры тени */
+               background-color:#eee;
+               border: 3px solid #000; 
+            } 
+
+.menu_section_button.selected
+            {
+               box-shadow: 3px 3px 10px rgba(0,0,0,0.5); /* Параметры тени */
+               background-color:#ccc;
+               border: 3px solid black; 
+            } 
+
+
+.dish_section {
+        display:none;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        height1:600px;
+        width:100%;
+        min-height:200px;
+        background:#fff; 
+        border: 0px solid yellow; 
+        padding:10px 0px;
+		text-align:center;
+
+        }
+
+div#dish_card
+            {
+             position:relative;
+             padding:15px 5px;
+             text-overflow: clip;
+             width:260px;
+             min-height1:120px;
+             height:180px;
+             margin:15px 17px 2px 0px;
+             border: 1px solid gray;   
+             box-shadow: 0 0 5px rgba(0,0,0,0.2); /* Параметры тени */
+            }
+
+div#dish_card {
+         
+    
+}
+
+
+@media screen and (max-width: 1024px) 
+   {
+    div#dish_card  div{ font-size:1.5em;}
+    div#dish_card  {width:900px;
+    min-height:80px;
+    border: 0px solid black;
+    margin:0px;
+    }
+    
+   }
+
+
+div#dish_card:hover
+            {
+             box-shadow: 0 0 15px rgba(0,0,0,0.5); /* Параметры тени */
+            }
+
+
+div.dish_title
+            {
+             font-family:p22underground-heavy;
+             margin-top:10px;   
+             font-size:21px;
+             width:100%;
+             min-height:50px;
+             border:0px solid gray;
+             text-transform:lowercase;
+            }
+
+
+div.dish_description
+            {
+             margin-top:7px;
+             font-size:17px;
+             font-family:none;
+             text-transform:lowercase;
+            }
+
+div.dish_price
+            {
+             position:absolute;
+             right:5px;
+             bottom:5px;
+             margin-top:7px;
+             color:gray;
+             font-style: italic;
+             font-size:13px;
+             font-family:none;
+            }
+
+
+/* ------------------  ------------------------  2016.02.02*/
+}                            

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="81e2c6eb-4010-4760-8976-91302bffe05b" name="noto@89.253.225.185" url="http://89.253.225.185">
+        <fileTransfer accessType="FTPS" host="89.253.225.185" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ec6945a9-c342-4b65-9921-c6dc0d778427" name="31.31.196.98" url="http://31.31.196.98">
+        <fileTransfer rootFolder="/www" host="31.31.196.98" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

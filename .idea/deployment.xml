@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="noto@89.253.225.185" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="31.31.196.98">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="noto@89.253.225.185">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/httpdocs" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="" local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

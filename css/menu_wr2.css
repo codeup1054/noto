@@ -1,0 +1,169 @@
+.menu_section{position: relative; 
+        display:inline-block;
+        height1:300px; 
+        top:100px;}
+
+/*   Описание меню*/
+
+.dish_section div img 
+        {
+           height:0px;
+           width:0px;
+        } 
+
+div.page_dish_container {
+		margin:0 20px;
+        width:600px;
+        border: 0px red solid;
+        display:inline-block;
+         }
+
+div.scroll_dish_container1 {
+        position:absolute;
+        width:100%;
+        display:block;
+        border: 0px solid blue; 
+        }           
+
+.dish_menu {
+		width:250px;
+        margin-top:80px;
+        z-index:1000;
+        border: 0px solid green;
+        border-radius:20px;
+        background:#fff; 
+        }
+        
+.dish_menu_item {	
+        overflow: hidden;
+        width:200px;
+        height:30px;
+        color:black; 
+        display:inline-block;
+        padding:10px;
+        margin:10px 15px;
+        */border-radius:2px;
+		text-align:center;
+		cursor:pointer;
+		font-family:tahoma;
+		font-size:20px;
+        */background:#eee; 
+        }
+
+.dish_menu_item.selected {	
+        */background:#fefefe;
+        border:2px solid black; 
+        }
+
+.dish_menu_item:hover 
+        {
+          */box-shadow: 0 0 5px rgba(0,0,0,0.5); /* Параметры тени */
+          text-decoration:underline;
+        }
+
+div.show_current_section { font-size:24px; }
+         
+         
+.dish_section {
+        display:none;
+        height1:600px;
+        width:600px;
+        background:#fff; 
+        margin:3px;
+        border-radius: 2px;
+        border: 0px solid gray; 
+        padding:20px 10px;
+		text-align:center;
+        }
+#Le\ Carni.dish_section {
+        display:block;}
+
+dish_section_name
+        {
+        display:block;
+        font-size:19px;
+        text-transform:uppercase;
+        font-family: p22underground-demi;
+        text-align:right;
+        border:solid 0px gray;
+        }
+
+div.dish { 
+        position: relative; 
+        overflow: hidden;
+        border-bottom: 2px solid #eee;
+        border-radius:2px;
+        margin:5px 5px; 
+        padding:0px 5px;
+        background:#fafafa;
+        text-align:left;  
+        width:100%; 
+        padding:15px 0 15px 15px;
+        display:block; 
+        font-size:13px;        
+        }
+
+div.dish:hover 
+        {
+                box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+        } 
+
+        
+
+dish_title
+        {
+        display:block;
+        font-size:18px;
+        overflow: hidden;
+        width:75%;
+        font-family:p22underground-demi;
+        text-transform:uppercase;
+        }
+
+dish_description {display: block;
+                  margin: 5px 0px;  
+                  height:40px;
+                  overflow: hidden;
+                  font-size:13px;
+                  }        
+
+
+        
+div.button.dish {
+        width:180px; 
+        height:10px;
+        display:none;
+        border: 0px solid gray;
+        border-radius:2px;
+        margin:0px;
+        padding-top:8px;
+        font-size:21px;
+        font-family: p22underground-demi;
+		cursor:pointer;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+        }                
+        
+        
+
+/* Let's get this party started */
+div.page_dish_container::-webkit-scrollbar {
+    width: 30px;
+}
+ 
+/* Track */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background: rgba(128,128,128,0.8); 
+    -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: rgba(128,128,128,0.4); 
+}                            

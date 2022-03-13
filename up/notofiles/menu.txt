@@ -1,0 +1,83 @@
+﻿#	Цена	Название на испанском	Описание на испанском	Название на английском	Описание на английском	Название на русском	Описание на русском
+0	1	2	3	4	5	6	7
+1	sec	ENSALADAS		SALADAS		САЛАТЫ
+	14,90	Ensalada César	lechuga Romana con pollo, crutones, parmesano y salsa Cesar	Ceasar salad	green lettuce salad with chicken, croutons, parmesan cheese and Caesar dressing	Салат Цезарь	cочные листья салата, ароматные кусочки куриной грудки и крутоны
+	11,90	Ensalada Verde	espinacas, rucula, , lechuga Romana, pepino, esparragos, brocoli, aguacate, apio y salsa Vinagrete	Green salad	with spinach, rocket leaf, cucumber, asparagus with vinaigrette sauce	Овощной салат 	салат из  шпината, руколлы, огурцов и спаржи
+	15,90	Ensalada Vitaminica	espinacas frescas, manzana, aguacate, nueces, anacardo, tomates cherry, queso de cabra gratinado y compota de frambuesa	Vitaminica salad	Baby spinach leaves, apple, avocado, walnuts, cashew nuts, cherry tomatoes, gratinated goat  cheese and raspberry marmalade	Витаминный салат	шпинат, яблоко,авокадо, грецкий орех,кешью, томаты черри, козий сыр и малиновый домашний мармелад
+	15,90	Ensalada Rucula con gambas	rucula, gambas, aguacate a la plancha con salsa de yogur	Salad with shrimps	rocket salat, shrimps, grilled avocado with yoghurt sauce	Салат с креветками	cалат из рукколы с креветками и авокадо гриль под йогуртовым соусом
+	sec	ENTRADAS FRIAS		COLD STARTERS		ХОЛОДНЫЕ ЗАКУСКИ
+	13,60	Carpaccio de tomate fresco con burrata	carpaccio de tomate fresco y burrata	tomato carpaccio	fresh farm tomato carpaccio with burrata	Карпаччо из свежих помидор	карпаччо из свежих фермерских помидор с буррата
+	17,60	Carpaccio de pulpo	con rucola, pimiento,tomate cherry y vinagreta de la casa	Octopus carpaccio	served with rocket salad, bell pepper, cherry tomato with vinaigrette sauce	Карпаччо из осьминога	подается с рукколой, свежим болгарским перцем и соусом из лайма и меда.
+	17,90	Carpaccio de carne	con lminas de parmesano  y rucola	Beef carpaccio	with parmesan cheese and rocket salad	Карпаччо из говядины	с черным трюфелем, трюфельной заправкой и свежей рукколой
+	7,90	Brusqueta de salmon	brusqueta con salmon ahumado , rucula y queso Philadelphia	Bruschetta Salmon	smoked salmon, rocket salad and Philadelphia cheese	Брускетта с лососем	брускетта с копченым лососем, салатом Руккола и сыром Филадельфия
+	6,90	Brusqueta de  tradicional	brusqueta de tomate fresco, albahaca y oregano con mozzarella bufala	Bruschetta Tradicional	bruschetta with fresh tomato, basil y oregano servido with mozarella buffalo	Брускетта Традиционная	брускетта со свежими томатами, базиликом и орегано, подается с моцареллой буффало
+	19,90	Tartar de atún rojo	con aguacate, servido con wasabi y lima 	Red tuna tartar	with avocado, served with wasabi and lime 	Тартар из красного тунца	с авокадо. Подается с лаймом и васаби
+	17,90	Tartar de salmón	con pepino, mango y aguacate	Salmon tartar	with cucumber, mango and avocado	Тартар из лосося	со свежим огурцом, манго и авокадо
+	17,90	Vitello Tonnato	сarne de ternera blanca asada, servida fria con salsa suave de atun y alcaparras	Vitello Tonnato	cold roasted veal served with light tuna sauce and capers	Vitello Tonnato	тонко нарезанные кусочки маринованной телятины приправленные крем соусом на основе тунца с каперсами
+	16,90	Langostinos	langostinos con salmon ahumado, aguacate y salsa rosa	Beetroot tartar	king prawns with smoked salmon, avocado and cocktail sauce	Тартар из свеклы	с яблоком и авокадо
+	15,60	Jamon San Daniele	servido con rucola y pasta de aceitunas	Jamon San Daniele	served with rocket salad and olive tapenade	Хамон Сан Даниэль 	подается с рукколой и тапенадом из оливок.
+	4,90	Ostra Gillardeau	ostra fresca Gillardeau	French oyster Gillardeau	French oyster Gillardeau	Устрицы Gillardea	свежие французские устрицы Gillardeau с соусом винегрета.
+	sec	ENTRADAS CALIENTES		HOT STARTERS		ГОРЯЧИЕ ЗАКУСКИ
+	18,90	Foie gras	con manzana y pera caramelizados, con salsa de frutos del bosque  	Foie gras	with caramelized apples and pears with berry dressing	Фуа-гра	французская Фуа-гра с карамелизированными яблоками и грушей, с ягодным соусом
+	14,90	Mejillones Noto	mejillones con salsa de tomate con ajo, tomillo, cebolla roja y lemongrass 	Mussels Noto	mussels with tomato sauce, garlic, red onion, thyme and lemongrass	Мидии Ното	мидии в томатном соусе с красным луком, чесноком и лемонграсс
+	14,90	Gambas Pil- Pil	langostinos, ajo, vino blanco y chilli	Shrimps Pil-Pill	shrimps cooked in olive oil , with garlic and chilli	Креветки Pil Pil	пикантные креветки, приготовленные в оливковом масле с чесноком.
+	15,90	Almejas Noto	saute de almejas	Clams Noto	clams sauteed	Ракушки Ното	соте из ракушек с белым вином, чесноком и петрушкой
+	19,90	Vieiras a la plancha 	con esparragos y espaguetis de verduras	Lightly grilled scallops 	with asparagus and vegetable spaghetti	Морские гребешки	на гриле со спаржей и овощными спагетти
+	sec	SOPAS		SOUPS		СУПЫ
+	8,60	Minestrone	Vegetable soup	Minestrone	Vegetable soup	Минестроне	легкий итальянский суп из сезонных овощей
+	15,90	Sopa de pescado y mariscos		Fish and seafood soup		Суп из морепродуктов	средиземноморский суп из морепродуктов.
+	sec	PASTA Y RISOTTO		PASTA & RISOTTO		ПАСТА и РИЗОТТО
+	17,90	Tripoline con gambas	pasta tripoline con pesto de pistacho, gambas y mozzarella bufala	Tripoline with shrimps	tripoline with pistachio pesto, shrimps and mozzarella buffalo	Триполине с креветками	паста триполине с креветками, фисташковым соусом песто и моцареллой буффало
+	16,90	Fettuccine con trufa		Fettuccine with trufflе		Феттучини с трюфелем	паста феттучини с трюфелем
+	26,00	Fettuccine con bogavante		Fettuccine with lobster		Феттучини с лобстером	паста феттучини с лобстером
+	16,50	Tagliatelle al salmon	pasta con salmon ahumado, rucula y nata	Tagliatelle with salmon	pasta with smoked salmon, rocket salad and cream	Таглиателли с лососем	паста таглиателли с копченым лососем, салатом руккола и сливками
+	14,90	Penne Arrabbiata	con tomate, ajo, chilli, con ligero perfume de boletus	Penne Arrabbiata	with tomatoes, garlic,  chili pepper flakers and a hint of porcini mushrooms	Пенне Арабьята	пенне с острым соусом из помидор, чеснока и белых грибов.
+	16,40	Espaguetis con amejas	pasta con almejas, vino blanco, ajo y perejil	Spaghetti with clams	pasta with clams tossed in White wine with garlic and parsley	Паста с ракушками	спагетти с ракушками в беом вине с чесноком и петрушкой
+	15,60	Ravioli  con espinaca	pasta fresca rellena de ricotta y espinacas  con salsa de mantequilla y salvia	Ravioli with spinach	ravioli with spinach and ricotta cheese with butter and sage sauce	Равиоли со шпинатом	равиоли со шпинатом, сыром рикотта и пряным маслом
+	17,90	Ravioli  foie gras	pasta rellena de foie gras con salsa de champiñones	Ravioli  foie gras	fresh pasta filled with foie gras served with mushroom sauc	Равиоли с фуа-гра	равиоли с фуа- гра под грибным соусом
+	15,90	Gnocchi	Gnocchi con crema de calabaza, setas silvestres y queso de cabra	Gnocchi	Gnocchi with pumpkin cream, mushrooms and goat cheese	Ньокки	ньокки с тыквенным кремом, грибами и козьим сыром
+	14,90	Lasaña fresca de ternera		Homemade classic meat lasagna		Классическая мясная лазанья
+	19,60	Espaguetis con mariscos 	pasta con almejas, mejillones, langostinos, calamares, salmon, atun y tomates cherry	Spaghetti with seafood	pasta with clams, mussels, king prawns, squid, salmon, tuna and cherry tomatoes	Спагетти с морепродуктами	спагетти с ракушками, мидиями, креветками, кальмарами, тунцом, белым вином и томатами черри.
+	14,60	Espaguetis carbonara	con bacon, crema fresca y huevo	Spaghetti carbonara	with bacon, fresh cream and egg yolk	Спагетти Карбонара	паста с беконом, сливочным соусом и яйцом
+	15,90	Espaguetis al pesto	espaguetis con salsa pesto de albahaca y queso de cabra gratinado	Spaghetti Pesto	spaghetti with basil pesto and gratinated goat cheese	Спагетти  Песто	спагетти с соусом песто и карамелизированным козьим сыром
+	19,60	Risotto con setas y trufas		Risotto with  mushrooms and truffle		Ризотто с грибами	ризотто с дикими белыми грибами, сливками и трюфельным соусом.
+	19,60	Risotto con mariscos	Risotto con mariscos	Risotto with seafood	risotto with seafood	Ризотто с морепродуктами	ризотто с местными морепродуктами.
+	sec	PIZZA		PIZZA		ПИЦЦА
+	18,90	NOTO	mozarella, nata, crema de trufa negra, champinones y rucula	NOTO	mozzarella, fresh cream, black truffle cream, mushrooms and rocket salad	NOTO	Пицца с грибами, сливками, соусом из черного трюфеля и рукколой.
+	9,00	Margherita	salsa de tomate, mozzarella y oregano	Margherita	tomato sauce, mozzarella and oregano	Маргарита	Пицца с нежной моцареллой, розмарином и томатным соусом
+	16,90	Pil- Pil	salsa tomate, mozzarella de bufala, gambas, tomate seco, ajo, chilli y pimenton	Pil- Pil	tomato sauce, buffalo mozzarella, prawns, sun dried tomato, garlic, chili and pepper	Pil- Pil	Пицца с креветками, моцареллой, сушеными томатами, чесноком и чили
+	17,60	Mariscos	salsa tomate, mozzarella y mariscos	Seafood	tomato sauce, mozzarella and seafood	Mariscos	пицца с морепрдуктами
+	14,50	Diavola	salsa de  tomate, mozzarella y salami picante	Diavola	tomato sauce, mozzarella and spicy salami	Diavola	Пицца с нежной моцареллой и пикантной салями
+	13,90	Hawaiana	salsa de tomate, mozzarella, piña y jamón cocido	Hawaiana	tomato sauce, mozzarella, pineapple and ham	Hawaiana	Пицца с моцареллой, ветчиной и ананасом
+	13,90	4 quesos	salsa de tomate, mozzarella, gorgonzola, parmesano y gruyere	4 quesos	tomato sauce, mozzarella, gorgonzola, parmesan and gruyere cheeses	4 сыра	Пицца с сыром фета, моцареллой, горгондзолой и пармезаном
+	13,50	Vegetariana	salsa de tomate, mozzarella y verduras	Vegetariana	tomate sauce, mozzarella, grilled vegetables	Vegetariana	Вегетарианская пицца с моцареллой, томатным соусом и овощами запеченными на гриле
+	13,90	Blanca	pizza con queso gorgonzola y pera	Blanca	pizza with gorgonzola cheese and pear	Бланка	пицца с сыром горгонзола и грушей
+	14,50	Bologna	salsa de tomate, Mortadela, pistachos, cebolla blanca y aceituna verde	Bologna	tomato sauce, Mortadella, pistachios, white onion, green olives	Болонья	пицца с колбасой Мортаделла, фисташками, белым луком, базиликом, оливками и томатным соусом
+	17,90	San Daniele	tomate cherry, mozzarella de bufala , jamon San Danile, rucola y parmesano	San Daniele	with сherry tomatoes, buffalo mozzarella, San Daniele ham, rocket salad and shaved parmesan cheese	San Daniele	пицца с хамоном San Daniele, моцареллой и лепестками пармезана
+	13,50	Jamon y champiñones	salsa de tomate, jamon cocido, champinones	ham and mushrooms	with tomato sauce, mozzarella, ham and mushrooms	С грибами и прошутто	пицца с томатным соусом, моцареллой, грибами и прошутто
+	5,20	Pan de ajo y queso		Garlic cheese bread		Пицца с сыром и чесноком	пицца с сыром и чесноком
+	4,90	Pan de ajo		Garlic bread		Чесночный хлеб
+	5,90	Focaccia		Focaccia		Фокачча
+	sec	CARNES		MEATS		МЯСО
+	26,00	Chuletitas de cordero a la parrilla	servido con patata baby, verduras y pure de calabaza	Lamb chops	grilled lamb chops with baby potatoes, vegetables and pumpkin puree	Каре ягненка	каре ягненка на гриле с картофелем, овощами  и тыквенным пюре
+	25,90	Solomillo de ternera a la parrilla	servido con pure de patatas trufadas y verduras 	Beef steak	grilled steak served truffled mashed potatoes and vegetables	Стейк на гриле	с трюфельным картофельным пюре, грибами и овощами
+	23,90	Ossobuco	оssobuco con risotto de azafran y verduras	Ossobuco	оssobuco served with saffron risotto and vegetables	Оссобуко	оссобуко с шафрановым ризотто и овощами
+	29,60	Entrecot Black Angus	con patatas y verduras 	Entrecot Black Angus	with potatoes and vegetables	Антрекот Black Angus	подается с маленьким картофелем и овощами
+	18,40	Milanese de ternera	con patata frita y ensalada	Italian breaded veal cutlets	served with  french fries and salad	Телячья отбивная в панировке.	подается с картофелем фри и салатом
+	15,60	Milanese de pollo	con patata frita  y ensalada	Italian breaded chicken cutlet	served with french fries and salad	Куриные отбивные в панировке	подается с  картофелем фри и салатом
+	22,90	Magret de pato	con salsa de naranja, servido con pure de patatas y verduras	Slow- roasted Duck	with orange sauce, mashed potatoes and vegetables	Нежнейшая утиная грудка	с апельсиновым соусом, подается с картофельным пюре и овощами
+	19,60	Higado ala Veneciana	higado de ternera blanca con cebolla y pure de patata	Venetian style veal liver	Venetian style veal liver with onions served with mashed potatoes	Телячья печень 	Телячья печень с луком и картофельным пюре
+	sec	PESCADOS Y MARISCOS		FISH AND SEAFOOD		РЫБА И МОРЕПРОДУКТЫ
+	25,40	Lenguado a la parrilla	servido con  patatas y verduras	Grilled Sole	served with potato and vegetables	Морской язык на гриле	подается с картошкой и овощами
+	19,80	Salmon a la plancha	servido con espaguetis de verduras y patata	Grilled salmon	with spaghetti of vegetables and potato	Лосось на гриле	подается со спагетти из овощей и картошкой
+	19,00	Corvina	con salsa eneldo y almejas, pure de patata al limon y alcachofa	Corvina	с соусом из моллюсков и укропа, подается с лимонным картофельным пюре и артишоком	Корвина (Горбыль)	 с соусом из моллюсков и укропа, подается с лимонным картофельным пюре и артишоком
+	20,90	Lubina	Lubina marinada con lima, cilantro, chili rojo fresco, patatas y verduras	Sea bass	Sea bass marinated in lime juice , coriander and fresh chilli pepper served with potatoes and vegetables	Сибас	маринованный с лаймом, кариандром, перцем чили, подается с картофелем и овощами
+	14,90	Calamaritos a la plancha	con ensalada	Grilled squid	with salad	Кальмары на гриле	с салатом
+	sec	POSTRES 		DESSERTS		ДЕСЕРТЫ домашние
+	8,00	Tiramisu	postre de crema de mascarpone, Savoiardi, café y Amaretto	Tiramisu	mascarpone cheese cream dessert with Savoiardi, Amaretto and coffee	Тирамису	Итальянский десерт с сыром маскарпоне, печеньем савоярди, кофе и ликером Амаретто
+	10,00	Sufle de chocolate	sufle de chocolate con chocolate caliente dentro con sorbete de limon	Сhocolate souffle	chocolate souffle with molten chocolate center  served with lemon sorbet	Шоколадный кекс 	Горячий шоколадный кекс с жидким шоколадом в центре. Подается с лимонным сорбетом
+	10,00	Tarta de queso 	tarta de queso casera con mango y frutas de pasion	Cheese cake	Cheese cake with passion fruit and mango	сырный торт	Сырный торт с маракуйя и манго
+	10,00	PAVLOVA	postre de merengue con ganache de choco blanco y frutas del bosque	PAVLOVA	meringue dessert with white chocolate ganache and wild berries	Павлова	Десерт из меренги с ганашем из белого шоколада и ягодами
+	9,00	Crumble de manzana	crumble de manzana con helado de vainilla	Apple crumble 	apple crumble served with vanilla ice cream	Яблочный крамбл 	Яблочный крамбл с ванильным мороженным
+	2,5	Seleccion de helados		Selection of ice cream		Морженное на выбор	Мороженое на выбор: ванильное, клубничное, шоколадное, мятное, мятное с шоколадом, со вкусом «туррон»
+	2,5	Seleccion de sorbetes		Selection of sorbets		Сорбет на выбор	Сорбет на выбор: лимон, манго, лесные ягоды, малина.

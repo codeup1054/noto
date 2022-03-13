@@ -1,0 +1,195 @@
+body { background: url(/main.jpg) repeat-y #eda; 
+      border: red 0px  solid;
+      font-family:Tahoma;
+      padding:0px;
+      margin:0px;
+      }
+
+
+div {opacity: 0.8; position:absolute; margin:0px; margin:0px}
+
+#phone {left:600px; top:15px; position:absolute; font-size: 21px; background: #fff; 
+        border-radius: 3px; padding: 3px 10px;}
+#phone:hover {background: #fe8}      
+
+
+#logo {left:160px; 
+       top:8px; 
+       width:108px; 
+       height:108px; 
+       position:absolute; 
+       font-size: 21px; 
+       background: #eee;
+       text-align: center;
+       vertical-align: middle; 
+       border-radius: 54px;
+       color: #eee;
+       padding: 0px 0px;}
+
+#logo:hover {background: #fe8; color: #800;}      
+
+
+
+#pag1e {   width: 50%; border:green 1px solid;
+    margin: 0 auto;}
+
+
+#book_table {left:490px;    
+            top:356px;
+            width:211px;
+            height:42px;
+            text-transform: uppercase;
+            letter-spacing: 3px; 
+            position:absolute; 
+            font-size: 15px;
+            text-align: center; 
+            background: #fff; 
+            border-radius: 1px; 
+            padding: 7px; }
+
+#book_table:hover {background: #fe8}      
+
+
+
+#pref1,
+#pref2,
+#pref3,
+#pref4
+        {position:absolute; 
+        top:550px;
+        width:160px;
+        height:250px;
+        border: red 1px  solid;
+        }
+        
+#pref1 {left:120px; }
+#pref2 {left:350px; }
+#pref3 {left:580px; }
+
+
+#nav, 
+#main_menu_slider,
+#menu_section_name
+ {opacity: 1; 
+            position:absolute; 
+            left:0px; 
+            top:1020px;
+            font-family: AMG Anahit; 
+            width:854px; 
+            height:600px; 
+            overflow: hidden;}
+
+#nav {top:830px; width:854px; height:60px; text-align:center;}
+#nav div {display:inline-block; 
+          position:relative;
+          font-size:19px;
+          background:#eee;
+          padding:15px;
+          }
+
+#menu_section_name {top:1000px; 
+                    width:854px;
+                    font-size:20px;
+                    
+                    letter-spacing: 2px; 
+                    background:#fff;
+                    text-transform:uppercase;
+                    font-family:Verdana;     
+                    height:60px; 
+                    text-align:center;}
+
+
+#main_menu {width:5600px; height:300px;}
+
+
+.menu_section, 
+.dish, 
+.button
+ {
+        display:inline-block;
+        position:relative;
+        width:150px;
+        font-size:11px;
+        opacity: 1; 
+        margin:10px;
+        box-shadow: 0 3px 10px rgba(0,0,0,0.7);
+        padding: 7px 10px; 
+        background: #fff }
+        
+        
+
+        
+
+
+.menu_section {width:570px; 
+            height:600px; 
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border: red 1px #eee; 
+            font-size:23px;}
+
+.button {width:50px}
+.button:hover {background: #fe8; box-shadow: 0 5px 5px rgba(0,0,0,0.4);}
+
+
+
+
+.top-menu li {display:inline-block;
+              font-family: AMG Anahit;
+              font-size: 19px;
+              box-shadow: 0 0 10px rgba(0,0,0,0.5);
+              padding: 7px 10px; 
+              background: #fff }
+              
+.top-menu li a {color: black;}  
+
+
+
+#map, #map_frame {top   :1876px; 
+                  width: 854px; 
+                  height:270px;
+                  opacity:1; 
+                  border:red 0px solid;
+                  }
+
+
+.orderform
+{   
+    position: fixed;
+    
+    text-align:center;
+    top: 50%;
+    left: 50%;
+    margin-top: -180px;
+    margin-left: -145px;
+    width: 289px;
+    height: 357px;
+    display:none;
+    opacity:1;
+    background: url('/static/images/form_bkg.jpg') #eda;
+}
+
+#email, #name, #sendorder
+{ position: absolute; background:#fff; height: 33px; 
+  font-family: AMG Anahit; padding:3px 5px; left:16px; border: 1px solid #400} 
+
+#name {top: 136px; width:244px; }
+#email {top: 206px; width:244px; }
+#sendorder {top: 268px; width:157px; left:42px;
+            font-family: Verdana; height: 15px; 
+            text-transform:uppercase; padding:10px; }
+
+
+.overlay {
+    position:fixed;
+    display:none; 
+
+    /* color with alpha channel */
+    background-color: rgba(255, 255, 255, 0.7); /* 0.7 = 70% opacity */
+
+    /* stretch to screen edges */
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+          
